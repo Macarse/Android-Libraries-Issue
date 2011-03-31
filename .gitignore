@@ -6,6 +6,4 @@ bin
 gen
 .settings
 .classpath
-argenprop-test/target
-argenprop-app/target
-argenprop-test/tmp/
+*/target
